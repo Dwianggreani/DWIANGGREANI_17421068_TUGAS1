@@ -1,0 +1,58 @@
+
+<html>
+
+<head>
+<title> BIODATAKU </title>
+</head>
+
+<body>
+
+  <br></br>
+  <center> <h1> BIODATAKU </h1> </center>
+  <br></br>
+  <hr width="100%">
+
+<center><body background = "bg1.jpg"/>
+<form action="#" style="width: 1000px"class="posisi";>
+<fieldset class="h"/>
+<table style="width: 980px;">
+
+<tr>
+<td rowspan="30" width="260px">
+<img src="dwi.jpg" width="260px" height="260px"/>
+</td>
+</tr>
+
+<tr>
+<td><b>NPM</b></td>
+<td>:</td>
+<td><b>17421068</b></td>
+</tr>
+
+<tr>
+<td><b> NAMA </b></td>
+<td>:</td>
+<td><b>DWI ANGGREANI</b></td>
+</tr>
+
+<tr>
+<td><b>TEMPAT LAHIR</b></td>
+<td>:</td>
+<td><b>LAMPUNG TENGAH</b></td>
+</tr>
+
+<tr>
+<td><b>TANGGAL LAHIR</b></td>
+<td>:</td>
+<td><b>14 DESEMBER 1998</b></td>
+</tr>
+
+<tr>
+<td><b>HOBBY</b></td>
+<td>:</td>
+
+<td><b>MAKAN</b></td>
+</tr></center>
+
+</body>
+</html>
